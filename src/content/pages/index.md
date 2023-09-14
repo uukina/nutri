@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Grachive
 tagline: Gravure Archive
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: https://cdn.uukina.workers.dev/1:/banner.png
 cta:
   ctaText: Selengkapnya
   ctaLink: /about
