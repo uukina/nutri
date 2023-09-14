@@ -4,4 +4,6 @@ slug: /contact
 title: Get in touch
 ---
 
-Jika ada yang ingin **donasi / lapor link rusak/ request** silahkan hubungi admin di [Telegram](https://t.me/freiamoe)
+Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+
+Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
