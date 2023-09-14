@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: Tentang Grachive
 ---
 
 # Informasi
