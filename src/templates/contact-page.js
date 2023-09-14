@@ -51,7 +51,7 @@ const Contact = ({ data }) => {
           <input type="hidden" name="form-name" value="contact" />
           <p>
             <label>
-              Name
+              Nama
               <input type="text" name="name" required />
             </label>
           </p>
@@ -63,13 +63,13 @@ const Contact = ({ data }) => {
           </p>
           <p>
             <label>
-              Subject
+              Subjek - diisi donasi/lapor link rusak/request
               <input type="text" name="subject" required />
             </label>
           </p>
           <p>
             <label>
-              Message<textarea name="message" required></textarea>
+              Pesan<textarea name="message" required></textarea>
             </label>
           </p>
           <p className="text-align-right">
@@ -80,7 +80,7 @@ const Contact = ({ data }) => {
               }}
               type="submit"
             >
-              Send Message{" "}
+              Kirim Pesan{" "}
               <span className="icon -right">
                 <RiSendPlane2Line />
               </span>

@@ -1,9 +1,7 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Kontak
 ---
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
-
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Jika ada yang ingin **donasi / lapor link rusak / request** bisa mengisi formulir dibawah atau hubungi admin di [Telegram](https://t.me/freiamoe)
